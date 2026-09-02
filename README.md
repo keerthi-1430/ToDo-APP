@@ -15,6 +15,3 @@ A simple task management web application designed to help users organize and man
 
 ## Purpose
 This project was created to practice JavaScript, DOM manipulation, and interactive web development.
-
-## Author
-Keerthi Priya Doddi
